@@ -1,0 +1,8 @@
+# Ignore entire dataset directory
+data/
+*.zip
+*.tar.gz
+
+# If you have specific dataset folders
+datasets/
+breakHis/
